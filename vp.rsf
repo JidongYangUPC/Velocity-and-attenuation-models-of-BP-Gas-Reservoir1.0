@@ -1,0 +1,14 @@
+
+	d2=0.01
+	o1=0
+	n2=996
+	o2=0
+	label1="Depth"
+	data_format="native_float"
+	label2="Distance"
+	esize=4
+	in="vp.rsf@"
+	unit1="km"
+	unit2="km"
+	d1=0.01
+	n1=382
